@@ -1,0 +1,6 @@
+homepage: "https://www.cookieconsent.io/"
+documentation: "https://www.cookieconsent.io/developers/"
+versions:
+
+  - sha: 6f1762524d3dc9e9c538899d707aff935346efd8
+    changeNotes: Initial release.
